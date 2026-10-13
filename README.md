@@ -29,8 +29,9 @@ Computer science student passionate about low-level programming, algorithms and 
 </p>
 
 ## 💼 Projects
+- **🎣 [Fishing Log](https://github.com/goga336/cursach)** <img src="https://img.shields.io/github/stars/goga336/cursach?style=social" />
 - **🧠 [Sounder](https://github.com/goga336/sounder)** <img src="https://img.shields.io/github/stars/goga336/sounder?style=social" />
-- **🎣 [Fishing Log](https://github.com/goga336/fishing-app)** <img src="https://img.shields.io/github/stars/goga336/cursach?style=social" />
+
 
 
 ## 🎣 Interests
